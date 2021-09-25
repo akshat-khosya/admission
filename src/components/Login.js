@@ -15,8 +15,8 @@ function Login(props) {
                         <h2 className="form-title">Sign up</h2>
                         <form method="POST" className="register-form" id="register-form">
                             <div className="form-group">
-                                <label for="name"><i className="zmdi zmdi-account material-icons-name"></i></label>
-                                <input type="text" name="name" id="name" placeholder="Your Name"/>
+                                <label for="jeeroll"><i className="zmdi zmdi-account material-icons-name"></i></label>
+                                <input type="text" name="jeeroll" id="jeeroll" placeholder="Your JEE Roll"/>
                             </div>
                             <div className="form-group">
                                 <label for="email"><i className="zmdi zmdi-email"></i></label>
