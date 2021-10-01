@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/admission/static/css/main.4b90a1c7.chunk.css",
-    "main.js": "/admission/static/js/main.5259f0a0.chunk.js",
-    "main.js.map": "/admission/static/js/main.5259f0a0.chunk.js.map",
+    "main.js": "/admission/static/js/main.b41e33b1.chunk.js",
+    "main.js.map": "/admission/static/js/main.b41e33b1.chunk.js.map",
     "runtime-main.js": "/admission/static/js/runtime-main.3eb1b9b0.js",
     "runtime-main.js.map": "/admission/static/js/runtime-main.3eb1b9b0.js.map",
-    "static/js/2.81322937.chunk.js": "/admission/static/js/2.81322937.chunk.js",
-    "static/js/2.81322937.chunk.js.map": "/admission/static/js/2.81322937.chunk.js.map",
+    "static/js/2.cc477736.chunk.js": "/admission/static/js/2.cc477736.chunk.js",
+    "static/js/2.cc477736.chunk.js.map": "/admission/static/js/2.cc477736.chunk.js.map",
     "index.html": "/admission/index.html",
     "static/css/main.4b90a1c7.chunk.css.map": "/admission/static/css/main.4b90a1c7.chunk.css.map",
-    "static/js/2.81322937.chunk.js.LICENSE.txt": "/admission/static/js/2.81322937.chunk.js.LICENSE.txt",
+    "static/js/2.cc477736.chunk.js.LICENSE.txt": "/admission/static/js/2.cc477736.chunk.js.LICENSE.txt",
     "static/media/material-design-iconic-font.min.css": "/admission/static/media/Material-Design-Iconic-Font.bd9b02bf.woff",
     "static/media/style.css": "/admission/static/media/poppins-v5-latin-regular.df9fdb2a.woff",
     "static/media/signin-image.6f1c7229.jpg": "/admission/static/media/signin-image.6f1c7229.jpg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3eb1b9b0.js",
-    "static/js/2.81322937.chunk.js",
+    "static/js/2.cc477736.chunk.js",
     "static/css/main.4b90a1c7.chunk.css",
-    "static/js/main.5259f0a0.chunk.js"
+    "static/js/main.b41e33b1.chunk.js"
   ]
 }
